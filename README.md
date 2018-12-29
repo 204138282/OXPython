@@ -1,7 +1,7 @@
-# python
-# 后端服务搭建, api提供示例实现
+### python
+### 后端服务搭建, api提供示例实现
 
-'''python
+```py
 myProject
 ├── myProject:
 │   ├── __pycache__
@@ -11,6 +11,7 @@ myProject
 │   └── wsgi.py
 |
 ├── manage.py
+|
 ├── db.sqlite3
 │   ├── common.txt
 │   ├── dev.txt
@@ -34,4 +35,4 @@ myProject
 |   └── views.py
 |
 └── README.md
-'''
+```
